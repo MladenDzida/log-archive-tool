@@ -1,5 +1,5 @@
 # log-archive-tool
-A tool that archives logs from log directory (provided as CLI arguemnt) from the CLI with the date and time.
+A tool that archives logs from log directory (provided as CLI arguemnt) from the CLI with the date and time. (https://roadmap.sh/projects/log-archive-tool)
 
 Execution steps:
 <ol>
